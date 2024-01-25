@@ -8,7 +8,7 @@ A newsfeed is a part of a website that constantly updates with new content, show
 The 365 platform’s Newsfeed offers a mix of automated and manual posts. Automated entries showcase students’ milestones, such as completing an award card collection or earning a certificate of achievement. On the other hand, manual entries are texts created by students to share insights or opinions with the community.
 The aim of this Newsfeed Analysis in Tableau project is to determine which type resonates more with our audience and identify potential issues with these features, along with suggestions for enhancements. The task is to create several visualizations giving crucial information about the newsfeed and how the users react to it.
 
-##Findings
+## Findings
 1.Regarding average likes per post, which post subtype is the least favored?
 
 After examining all subtypes using the appropriate dashboard filter, it's evident that the Level-type and Collection-type posts are the least popular.
